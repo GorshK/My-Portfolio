@@ -19,4 +19,4 @@ Tailwind CSS: Styling for a modern, responsive design.
 Font Awesome: Icons for skills and social media links.
 AOS (Animate On Scroll): Scroll-based animations for a dynamic experience.
 
-
+Deployed on Github pages at : https://gorshk.github.io/My-Portfolio/.
